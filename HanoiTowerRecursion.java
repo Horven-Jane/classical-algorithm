@@ -41,4 +41,4 @@ public class HanoiTowerRecursion {
 		System.out.printf("将%d号盘子,从柱子%c移动到柱子%c\n", n, a, c);
 	}
 	
-}
+} 
